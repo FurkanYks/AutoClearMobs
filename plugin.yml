@@ -1,0 +1,6 @@
+name: AutoClearMobs
+version: 1.0.0
+api: 4.8.2
+main: AutoClearMobs\Altay\AltayC
+author: Altay
+github: https://github.com/AltayExtended/Altay
